@@ -1,0 +1,18 @@
+---
+layout: default
+title: 404 Not Found
+---
+
+# Where am I?
+
+_Probably not where you want to be_
+
+You're in a room. It's dark. Silent. As your eyes become accustomed to the gloom you
+notice something on the wall opposite. Squinting, you read:
+
+**404 Page Not Found**
+
+It might be written in blood or something. I don't know. This story's gone on too long
+already.
+
+What I'm trying to say is the page you're looking for can't be found. Sorry.
