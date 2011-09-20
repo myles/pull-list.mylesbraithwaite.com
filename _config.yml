@@ -1,2 +1,14 @@
-permalink: /:day-:month-:year
+permalink: /:year-:month-:day/
+
 paginate: 52
+
+exclude: [
+ '.gitignore',
+ 'Rakefile'
+]
+
+markdown: kramdown
+
+kramdown:
+ auto_ids: true
+ footnote_nr: 1
