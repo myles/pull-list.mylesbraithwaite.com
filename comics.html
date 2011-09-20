@@ -1,0 +1,21 @@
+---
+layout: default
+title: Comic Series
+---
+
+<h1 id="comics">Comic Series</h1>
+
+<ul>
+{% for category in site.categories | sort %}
+	<li>
+		{{ category | first }}
+		<ul>
+		{% for posts in category %}{% for post in posts %}
+			{% if post.title and post.url %}
+			<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}{% endfor %}
+		</ul>
+	</li>
+{% endfor %}
+</ul>

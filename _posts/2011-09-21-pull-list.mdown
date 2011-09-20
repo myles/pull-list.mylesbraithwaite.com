@@ -25,18 +25,18 @@ categories:
 
 ## D.C. Comics
 
-* Batman #1 
-* Birds of Prey #1 
-* Blue Beetle #1 
-* Captain Atom #1 
-* Catwoman #1 
+* [Batman](/media/2011-09-21/batman-1.jpg "Batman #1"){: class="lightbox"} #1
+* [Birds of Prey](/media/2011-09-21/birds-of-prey-1.jpg "Birds of Prey #1"){: class="lightbox"} #1 
+* [Blue Beetle](/media/2011-09-21/blue-beetle-1.jpg "Blue Beetle #1"){: class="lightbox"} #1 
+* [Captain Atom](/media/2011-09-21/captain-atom-1.jpg "Captain Atom #1"){: class="lightbox"} #1 
+* [Catwoman](/media/2011-09-21/catwoman-1.jpg "Catwoman #1"){: class="lightbox"} #1 
 * D.C. Universe Presents #1 
-* Green Lantern Corps #1 
-* Legion of Super Heroes #1 
-* Nightwing #1 
-* Red Hood And The Outlaws #1 
-* Supergirl #1 
-* Wonder Woman #1
+* [Green Lantern Corps](/media/2011-09-21/green-lantern-corps-1.jpg "Green Lantern Corps #1"){: class="lightbox"} #1 
+* [Legion of Super Heroes](/media/2011-09-21/legion-of-super-heroes-1.jpg "Legion of Super Heroes #1"){: class="lightbox"} #1 
+* [Nightwing](/media/2011-09-21/nightwing-1.jpg "Nightwing #1"){: class="lightbox"} #1 
+* [Red Hood And The Outlaws](/media/2011-09-21/red-hood-and-the-outlaws-1.jpg "Red Hood And The Outlaws #1"){: class="lightbox"} #1 
+* [Supergirl](/media/2011-09-21/supergirl-1.jpg "Supergirl #1"){: class="lightbox"} #1 
+* [Wonder Woman](/media/2011-09-21/wonder-woman-1.jpg "Wonder Woman #1"){: class="lightbox"} #1
 
 ## Marvel
 

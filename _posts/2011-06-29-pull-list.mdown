@@ -1,6 +1,16 @@
 ---
 layout: post
 title: 29th June, 2011
+categories:
+- Amazing Spider-Man
+- Uncanny X-Men
+- Incredible Hulks Annual
+- Iron Age
+- Batman Incorporated
+- Batman: Arkham City
+- Detective Comics
+- Gotham City Sirens
+- The Walking Dead
 ---
 
 # Pull List for 29th June, 2011
