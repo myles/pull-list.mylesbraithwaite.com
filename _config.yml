@@ -5,6 +5,7 @@ paginate: 52
 exclude:
 - .gitignore
 - Rakefile
+- README.mdown
 
 markdown: kramdown
 
