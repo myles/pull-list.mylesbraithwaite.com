@@ -38,7 +38,7 @@ p {
 }
 
 a {
-  color: #00a;
+  color: #508cae;
 }
 
 a:hover {
@@ -46,7 +46,7 @@ a:hover {
 }
 
 a:visited {
-  color: #a0a;
+  color: #c74d4c;
 }
 
 table {
@@ -88,10 +88,11 @@ body {
   max-width: 40em;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
+  background: url("../img/topbar.png") repeat-x 0 -10px;
 }
 
 header#top {
-  color: #a00;
+  color: #c74d4c;
   font-weight: bold;
   margin-bottom: 2em;
   font-size: 1.5em;

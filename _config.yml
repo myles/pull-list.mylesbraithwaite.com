@@ -2,10 +2,9 @@ permalink: /:year-:month-:day/
 
 paginate: 52
 
-exclude: [
- '.gitignore',
- 'Rakefile'
-]
+exclude:
+- .gitignore
+- Rakefile
 
 markdown: kramdown
 
