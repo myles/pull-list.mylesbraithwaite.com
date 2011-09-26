@@ -9,6 +9,8 @@ module Jekyll
 			self.process(@name)
 			self.read_yaml(File.join(base, '_layouts'), 'comic.html')
 			self.data['category'] = category
+			self.data['category_slug'] = Slugalizer::slugalize(category)
+			self.data['title'] = category
 		end
 	end
 
