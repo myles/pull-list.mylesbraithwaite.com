@@ -1,0 +1,19 @@
+---
+layout: nil
+---
+[
+{% for category in site.categories | sort %}
+	{
+		"title": "{{ category | first }}",
+		"url": "/comic/{{ category | first | slugify }}/",
+		"posts": [
+			{% for posts in category %}{% for post in posts %}{% if post.title and post.url %}
+			{
+				"title": "{{ post.title }}",
+				"url": "{{ post.url }}"
+			}{% if forloop.last == false %},{% endif %}
+			{% endif %}{% endfor %}{% endfor %}
+		]
+	}{% if forloop.last == false %},{% endif %}
+{% endfor %}
+]
