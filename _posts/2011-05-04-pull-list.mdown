@@ -13,14 +13,14 @@ categories:
 
 ## D.C. Comics
 
-* Batman: Long Shadows
+* [Batman: Long Shadows](/media/2011-05-04/batman-long-shadows.jpg){: class="lightbox"}
 
 ## Marvel
 
-* Deadpool Annual #1
-* Fear Itself #2
+* [Deadpool Annual](/media/2011-05-04/deadpool-annual-1.jpg){: class="lightbox"} #1
+* [Fear Itself](/media/2011-05-04/fear-itself-2.jpg){: class="lightbox"} #2
 
 ## Dark House
 
-* B.P.R.D.: The Dead Remembered #2
-* Witchfinder: Lost and Gone Forever #4
+* [B.P.R.D.: The Dead Remembered](/media/2011-05-04/bprd-the-dead-remembered-2.jpg){: class="lightbox"} #2
+* [Witchfinder: Lost and Gone Forever](/media/2011-05-04/witchfinder-lost-and-gone-foverever-4.jpg){: class="lightbox"} #4

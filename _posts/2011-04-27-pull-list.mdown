@@ -15,10 +15,10 @@ categories:
 # Pull List for 27th Apirl, 2011
 
 * Avengers #12.1
-* Batman Incorporated #5
-* Brightest Day #24
+* [Batman Incorporated](/media/2011-04-27/batman-incorporated-5.jpg){: class="lightbox"} #5
+* [Brightest Day](/media/2011-04-27/brightest-day-24.jpg){: class="lightbox"} #24
 * Elephantmen #1
-* Incredible Hulks #627
-* Ultimate X-Men #1
-* The Walking Dead #64
-* X-23 #9
+* [Incredible Hulks](/media/2011-04-27/incredible-hulks-627.jpg){: class="lightbox"} #627
+* [Ultimate X-Men](/media/2011-04-27/ultimate-x-men-1.jpg){: class="lightbox"} #1
+* [The Walking Dead](/media/2011-04-27/the-walking-dead-64.jpg){: class="lightbox"} #64
+* [X-23](/media/2011-04-27/x-23-9.jpg){: class="lightbox"} #9

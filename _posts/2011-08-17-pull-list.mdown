@@ -17,10 +17,10 @@ categories:
 
 ## Marvel
 
-* Avengers #16
-* Hulk #39
-* Invincible Iron Man #507
-* Journey into Mystery #626
+* [Avengers](/media/2011-08-17/avengers-16.jpg){: class="lightbox"} #16
+* [Hulk](/media/2011-08-17/hulk-39.jpg){: class="lightbox"} #39
+* [Invincible Iron Man](/media/2011-08-17/invincible-iron-man-507.jpg){: class="lightbox"} #507
+* [Journey into Mystery](/media/2011-08-17/journey-into-myster-626.jpg){: class="lightbox"} #626
 * X-Men Schism #3 (of 5)
 
 ## Image
@@ -29,6 +29,6 @@ categories:
 
 ## D.C. Comics
 
-* Batman #713
-* Supergirl #67
+* [Batman](/media/2011-08-17/batman-714.jpg){: class="lightbox"} #713
+* [Supergirl](/media/2011-08-17/supergirl-67.jpg){: class="lightbox"} #67
 * Superman/Batman #87
