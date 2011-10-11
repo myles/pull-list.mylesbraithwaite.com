@@ -1,0 +1,73 @@
+table#omnioutliner th { vertical-align: bottom; }
+table#omnioutliner td { vertical-align: top; }
+table#omnioutliner td,th { empty-cells: show; }
+table#omnioutliner .top-right-border { }
+table#omnioutliner .no-border { border-bottom: 0px; border-left: 0px; }
+table#omnioutliner table { font-family: Helvetica, sans-serif; font-size: 12px; }
+table#omnioutliner td.subcell { border: none; }
+table#omnioutliner td.content { padding-left: 4px; padding-bottom: 2px; padding-top: 1px; padding-right: 3px; }
+table#omnioutliner .full { height: 100%; }
+table#omnioutliner .heighthack { height: 8px; }
+table#omnioutliner div.titlepadding { padding-right:3px; padding-left:6px; padding-bottom:3px; padding-top: 2px; }
+table#omnioutliner .summary_node { background: lightgray; margin-bottom: 1px; }
+table#omnioutliner div.column { padding-right: 3px; padding-left: 4px; padding-top: 1px; padding-bottom: 2px; margin-right: 1px; }
+table#omnioutliner .labelpadding { padding-right: 3px; padding-top: 1px; padding-left: 2px; }
+table#omnioutliner .indicator { white-space: nowrap; text-align:right; margin-right: 0px; vertical-align: top; padding-top: 1px; padding-left: 0px; }
+table#omnioutliner .wholedocgutter { }
+table#omnioutliner div.row { }
+table#omnioutliner div.headerRow { }
+table#omnioutliner .expanded { display: inline; }
+table#omnioutliner .collapsed { display: none; }
+table#omnioutliner div.palette-hit-zone { position: fixed; bottom: 0px; height: 33%; left:50%; width: 66%; margin-left: -33%; }
+table#omnioutliner div.floating-palette { -webkit-border-radius: 5px; -webkit-transition: opacity is fade-in-out; -webkit-transition-duration: 1s; background-color: rgb(64, 64, 64); opacity:0.7; width: 88px; height: 44px; position: fixed; bottom: 20px; left: 50%; margin-left: -44px; }
+table#omnioutliner div.palette-cell { opacity:1; margin-top: 6px; margin-bottom: 6px; position: absolute; height: 32px; width: 32px; }
+table#omnioutliner div.cell-divider { position: absolute; margin-top: 6px; margin-bottom: 6px; margin-left: 44px; height: 32px; width:0px; position:absolute; left:0px; border-right:rgb(207, 207, 207) 2px solid;  }
+table#omnioutliner .altRow { background-color: rgb(244,244,244) !important; }
+table#omnioutliner .note { padding-left: 5px; padding-right: 3px; border: none; color:rgb(126,126,126) ;  font-size: 10px;font-size: 10px; }
+table#omnioutliner .wholething { width: auto; }
+table#omnioutliner table.row { width: 607px; }
+table#omnioutliner .col_width1 { width: 150px; }
+table#omnioutliner .col_width2 { width: 259px; }
+table#omnioutliner .col_width3 { width: 110px; }
+table#omnioutliner .col_width4 { width: 88px; }
+table#omnioutliner .col1 { }
+table#omnioutliner .col2 { }
+table#omnioutliner .col3 { }
+table#omnioutliner .col4 { text-align: center; }
+table#omnioutliner .colbackground1 { }
+table#omnioutliner .colbackground2 { }
+table#omnioutliner .colbackground3 { }
+table#omnioutliner .colbackground4 { text-align: center; }
+table#omnioutliner .ns-Level-1-rows { }
+table#omnioutliner .ns-Title { font-weight: 900;  font-size: 24px;}
+table#omnioutliner .ns-Subtitle { font-size: 24px;}
+table#omnioutliner .ns-Heading-1 { font-weight: 900;  font-size: 20px;}
+table#omnioutliner .ns-Heading-2 { font-weight: 900;  font-size: 16px;}
+table#omnioutliner .ns-Heading-3 { font-weight: 900;  }
+table#omnioutliner .ns-Separator { color:rgb(254,255,254) ;  font-weight: 900;  }
+table#omnioutliner .ns-Emphasis { font-style: italic;}
+table#omnioutliner .ns-Highlight:-Yellow { }
+table#omnioutliner .ns-Highlight:-Green { }
+table#omnioutliner .ns-Highlight:-Pink { }
+table#omnioutliner .ns-bg-Level-1-rows { }
+table#omnioutliner .ns-bg-Title { }
+table#omnioutliner .ns-bg-Subtitle { }
+table#omnioutliner .ns-bg-Heading-1 { }
+table#omnioutliner .ns-bg-Heading-2 { }
+table#omnioutliner .ns-bg-Heading-3 { }
+table#omnioutliner .ns-bg-Separator { background-color:rgb(165,165,165) ;  }
+table#omnioutliner .ns-bg-Emphasis { }
+table#omnioutliner .ns-bg-Highlight:-Yellow { background-color:rgb(251,237,113) ;  }
+table#omnioutliner .ns-bg-Highlight:-Green { background-color:rgb(147,229,189) ;  }
+table#omnioutliner .ns-bg-Highlight:-Pink { background-color:rgb(252,165,164) ;  }
+table#omnioutliner .ns-gutter-Level-1-rows { }
+table#omnioutliner .ns-gutter-Title { }
+table#omnioutliner .ns-gutter-Subtitle { }
+table#omnioutliner .ns-gutter-Heading-1 { }
+table#omnioutliner .ns-gutter-Heading-2 { }
+table#omnioutliner .ns-gutter-Heading-3 { }
+table#omnioutliner .ns-gutter-Separator { }
+table#omnioutliner .ns-gutter-Emphasis { }
+table#omnioutliner .ns-gutter-Highlight:-Yellow { }
+table#omnioutliner .ns-gutter-Highlight:-Green { }
+table#omnioutliner .ns-gutter-Highlight:-Pink { }

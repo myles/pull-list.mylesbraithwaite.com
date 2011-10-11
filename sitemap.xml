@@ -22,4 +22,19 @@ layout: nil
 			{% endif %}
 		</url>
 	{% endfor %}
+	
+	<url>
+		<loc>http://pull-list.mylesbraithwaite.com/about.html</loc>
+		<lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
+	</url>
+	
+	<url>
+		<loc>http://pull-list.mylesbraithwaite.com/pages/</loc>
+		<lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
+	</url>
+	
+	<url>
+		<loc>http://pull-list.mylesbraithwaite.com/pages/dc-comics-52-1.html</loc>
+		<lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
+	</url>
 </urlset>
