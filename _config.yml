@@ -5,6 +5,7 @@ paginate: 52
 exclude:
 - .gitignore
 - Rakefile
+- fabfile.py
 - README.mdown
 
 markdown: kramdown

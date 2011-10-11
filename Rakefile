@@ -14,13 +14,13 @@ end
 
 desc 'Build site with Jekyll'
 task :build => :clean do
-	sh 'rm -fr _site/*'
 	jekyll('')
 end
 
 desc "Deploy"
 task :deploy => :build do
 	s3cmd "s3://pull-list.mylesbraithwaite.com"
+	rsync "fox:/srv/www/com_mylesbraithwaite_pull-list/html"
 end
 
 def s3cmd(location)
