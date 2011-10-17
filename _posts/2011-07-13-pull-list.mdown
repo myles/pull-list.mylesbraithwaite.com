@@ -4,18 +4,18 @@ title: 13th July, 2011
 categories:
 - Alpha Flight
 - Amazing Spider-Man
-- Darken: Dark Wolverine
-- Fear Itself: Spider-Man
+- "Darken: Dark Wolverine"
+- "Fear Itself: Spider-Man"
 - Incredible Hulks
 - Journey Info Mystery
 - Wolverine
 - Iron Age
 - Batgirl
-- Batman: The Dark Knight
+- "Batman: The Dark Knight"
 - Birds of Prey
 - Detective Comics
 - Dollhouse Epitaphs
-- Hellboy: The Fury
+- "Hellboy: The Fury"
 - BPRD Hell On Earth Monsters
 ---
 

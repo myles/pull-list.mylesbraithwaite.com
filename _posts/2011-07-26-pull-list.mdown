@@ -7,7 +7,7 @@ categories:
 - Incredible Hulks
 - Astonishing X-Men
 - X-Men Schism
-- Batman: The Dark Knight
+- "Batman: The Dark Knight"
 - Detective Comics
 ---
 

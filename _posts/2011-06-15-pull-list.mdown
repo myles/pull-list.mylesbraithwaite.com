@@ -8,7 +8,7 @@ categories:
 - Superman/Batman
 - Alpha Flight
 - Avengers
-- Daken: Dark Wolverine
+- "Daken: Dark Wolverine"
 - Hulk
 - Invincible Iron Man
 - Uncanny X-Men

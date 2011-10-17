@@ -2,13 +2,13 @@
 layout: post
 title: 22nd June, 2011
 categories:
-- Batman: Gates of Gotham
+- "Batman: Gates of Gotham"
 - Captain America
 - Incredible Hulks
 - Iron Man 2.0
 - The Mighty Thor
 - Wolverine
-- X-Men: Legacy
+- "X-Men: Legacy"
 ---
 
 # Pull List for 22nd June, 2011

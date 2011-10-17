@@ -7,7 +7,7 @@ categories:
 - Incredible Hulks Annual
 - Iron Age
 - Batman Incorporated
-- Batman: Arkham City
+- "Batman: Arkham City"
 - Detective Comics
 - Gotham City Sirens
 - The Walking Dead

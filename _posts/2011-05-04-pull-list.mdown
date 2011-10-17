@@ -2,11 +2,11 @@
 layout: post
 title: 4th May, 2011
 categories:
-- Batman: Long Shadows
+- "Batman: Long Shadows"
 - Deadpool Annual
 - Fear Itself
-- B.P.R.D.: The Dead Remembered
-- Witchfinder: Lost and Gone Forever
+- "B.P.R.D.: The Dead Remembered"
+- "Witchfinder: Lost and Gone Forever"
 ---
 
 # Pull List for 4th May, 2011
