@@ -5,3 +5,16 @@ layout: default
 <article>
 	{{ content }}
 </article>
+
+<p id="post-navigation">
+	{% if page.previous.url %}
+	<a href="{{ page.previous.url }}" title="{{ page.previous.title }}" rel="prev">
+		Previous
+	</a>
+	{% endif %}
+	{% if page.next.url %}
+	<a href="{{ page.next.url }}" title="{{ page.next.title }}" rel="next">
+		Next
+	</a>
+	{% endif %}
+</p>
