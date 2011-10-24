@@ -11,16 +11,24 @@ layout: nil
 	</url>
 	
 	{% for page in site.posts %}
-		<url>
-			<loc>http://pull-list.mylesbraithwaite.com{{ page.url }}</loc>
-			{% if page.last_updated %}
-			<lastmod>{{ page.last_updated | date: "%Y-%m-%d" }}</lastmod>
-			{% elsif page.date %}
-			<lastmod>{{ page.date | date: "%Y-%m-%d" }}</lastmod>
-			{% else %}
-			<lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
-			{% endif %}
-		</url>
+	<url>
+		<loc>http://pull-list.mylesbraithwaite.com{{ page.url }}</loc>
+		{% if page.last_updated %}
+		<lastmod>{{ page.last_updated | date: "%Y-%m-%d" }}</lastmod>
+		{% elsif page.date %}
+		<lastmod>{{ page.date | date: "%Y-%m-%d" }}</lastmod>
+		{% else %}
+		<lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
+		{% endif %}
+	</url>
+	{% endfor %}
+	
+	{% for category in site.categories | sort %}
+	<url>
+		<loc>http://pull-list.mylesbraithwaite.com/comic/{{ category | first | slugify }}/</loc>
+		<lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
+		<changefreq>weekly</changefreq>
+	</url>
 	{% endfor %}
 	
 	<url>
