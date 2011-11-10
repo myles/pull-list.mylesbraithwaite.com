@@ -5,7 +5,7 @@ title: About Myles B.
 
 # Myles Braithwaite
 
-* Email: <a href="mailto:me@mylesbraithwaite.com" rel="me">me@mylesbraithwaite.com</a>
-* Website: <a href="http://mylesbraithwaite.com/" rel="me">mylesbraithwaite.com</a>
-* Google+: <a href="https://plus.google.com/101051575949997777035" rel="me">plus.google.com/101051575949997777035</a>
-* Twitter: <a href="https://www.twitter.com/mylesb" rel="me">twitter.com/mylesb</a>
+* Email: <a href="mailto:me@mylesbraithwaite.com" rel="me author">me@mylesbraithwaite.com</a>
+* Website: <a href="http://mylesbraithwaite.com/" rel="me author">mylesbraithwaite.com</a>
+* Google+: <a href="https://plus.google.com/101051575949997777035?rel=author" rel="me author">plus.google.com/101051575949997777035</a>
+* Twitter: <a href="https://www.twitter.com/mylesb" rel="me author">twitter.com/mylesb</a>
