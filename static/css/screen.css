@@ -201,10 +201,4 @@ article {
     margin-bottom: 1em;
   }
 
-/*****************************************************************************/
-/*
-/* OmniOutliner
-/*
-/*****************************************************************************/
-
-table#omnioutliner td.col4 { text-align: center; }
+#post-navigation a:visited { color: #508cae; }
