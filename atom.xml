@@ -13,7 +13,7 @@ layout: nil
 		<email>me@mylesbraithwaite.com</email>
 		<uri>http://mylesbraithwaite.com/</uri>
 	</author>
-	<rights type="html">&copy; {{ site.time | date: "%Y" }} Myles Braithwaite</rights>
+	<rights type="html">{{ site.time | date: "%Y" }} Myles Braithwaite</rights>
 	
 	{% for post in site.posts %}
 	<entry>
@@ -27,7 +27,7 @@ layout: nil
 			<uri>http://mylesbraithwaite.com/</uri>
 		</author>
     	<content type="html">{{ post.content | xml_escape }}</content>
-    	<rights type="html">&copy; {{ post.date | date: "%Y" }} Myles Braithwaite</rights>
+    	<rights type="html">{{ post.date | date: "%Y" }} Myles Braithwaite</rights>
     	{% for cat in post.categories %}
     	<category term="{{ cat }}" label="{{ cat }}"/>
     	{% endfor %}
