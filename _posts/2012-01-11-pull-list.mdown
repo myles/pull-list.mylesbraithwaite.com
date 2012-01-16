@@ -2,6 +2,13 @@
 layout: post
 title: 11th January, 2012
 categories:
+- Batgirl
+- Batman and Robin
+- Batwoman
+- Green Lantern
+- Incredible Hulk
+- Journey into Mystery
+- Wolverine
 ---
 
 # Pull List for 11th January, 2012
