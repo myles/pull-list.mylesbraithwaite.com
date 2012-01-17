@@ -1,0 +1,11 @@
+/* @override http://pull-list.mylesbraithwaite.com.s3-website-us-west-1.amazonaws.com/static/css/screen.css */
+
+body { background-color: white; font-family: Menlo, "Courier New", Courier, mono; }
+
+header#top a { font-size: 2em; }
+header#top a.extra { display: none; }
+
+p#post-navigation { display: none; }
+
+footer#bottom .social { display: none; }
+footer#bottom .rss { display: none; }
