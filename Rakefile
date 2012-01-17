@@ -13,7 +13,7 @@ task :clean do
 end
 
 desc 'Build site with Jekyll'
-task :build => :clean do
+task :build do
 	jekyll('')
 end
 

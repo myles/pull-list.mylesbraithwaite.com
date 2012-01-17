@@ -1,4 +1,4 @@
-permalink: /:year-:month-:day/
+permalink: /:year/:month/:day/
 
 paginate: 52
 
